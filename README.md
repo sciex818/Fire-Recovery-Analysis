@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Paper-Doc-blue">
   </a>
   <a href="https://github.com/sciex818/Fire-Recovery-Analysis">
-    <img src="https://img.shields.io/badge/Code-Github-blue">
+    <img src="https://img.shields.io/badge/Code-Github-green">
   </a>
   <br>
 </div>
