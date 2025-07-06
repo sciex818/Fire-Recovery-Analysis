@@ -1,9 +1,10 @@
+
 <div align="center">
   <a href="https://docs.google.com/document/d/1BvtOkY6_WUW7y2TLL51c_hU8_5OPSe-LfTOsdjHA8Ww/edit?tab=t.0">
     <img src="https://img.shields.io/badge/Paper-Doc-blue">
   </a>
   <a href="https://github.com/sciex818/Fire-Recovery-Analysis">
-    <img src="https://img.shields.io/badge/Code-Github-green">
+    <img src="https://img.shields.io/badge/Code-Github-blue">
   </a>
   <br>
 </div>
