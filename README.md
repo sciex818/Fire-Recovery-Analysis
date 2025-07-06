@@ -2,7 +2,7 @@
   <a href="https://arxiv.org/abs/2505.14059">
     <img src="https://img.shields.io/badge/Paper-Doc-blue">
   </a>
-  <a href="[https://github.com/bytedance/Dolphin](https://github.com/sciex818/Fire-Recovery-Analysis/tree/main?tab=readme-ov-file](https://github.com/sciex818/Fire-Recovery-Analysis)">
+  <a href="https://github.com/sciex818/Fire-Recovery-Analysis">
     <img src="https://img.shields.io/badge/Code-Github-green">
   </a>
   <br>
